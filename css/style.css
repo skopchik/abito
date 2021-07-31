@@ -490,6 +490,9 @@ body {
     grid-template-columns: 8fr 4fr;
   }
 
+  .card-header {
+    max-width: none;
+  }
   /* добавление burger-menu */
 
   .menu-button {
